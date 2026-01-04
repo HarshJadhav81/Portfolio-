@@ -11,7 +11,7 @@ This repository contains the source code for my personal portfolio website. It s
 
 ## Live Demo
 
-[View Live Portfolio](#) _(Link to be updated)_
+[View Live Portfolio](https://harshjadhav.vercel.app/) 
 
 ## About This Portfolio
 
