@@ -13,11 +13,6 @@ This repository contains the source code for my personal portfolio website. It s
 
 [View Live Portfolio](#) _(Link to be updated)_
 
-## Preview
-
-![Portfolio Preview](public/landing-memojis.png)
-_(Placeholder for project screenshot)_
-
 ## About This Portfolio
 
 I built this portfolio to demonstrate my ability to craft responsive and interactive web applications using modern technologies. My primary goal was to create a platform that not only displays my work but also reflects my commitment to writing clean, maintainable code and understanding user experience principles.
