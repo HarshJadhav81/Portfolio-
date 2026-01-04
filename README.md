@@ -62,43 +62,6 @@ Key objectives included:
 └── /styles          # Global styles and Tailwind configuration
 ```
 
-## Getting Started
-
-Follow these steps to set up the project locally:
-
-1.  **Clone the repository**
-
-    ```bash
-    git clone https://github.com/HarshJadhav81/Portfolio.git
-    cd Portfolio
-    ```
-
-2.  **Install dependencies**
-
-    ```bash
-    npm install
-    # or
-    pnpm install
-    ```
-
-3.  **Run the development server**
-
-    ```bash
-    npm run dev
-    # or
-    pnpm dev
-    ```
-
-4.  **View the application**
-
-    Open `http://localhost:3000` in your browser.
-
-## Customization
-
--   **Personal Details**: Update `src/components/contact.tsx` and header components with your information.
--   **Projects**: Modify the data in `src/components/projects/Data.tsx` to add or remove projects.
--   **Styling**: Adjust `tailwind.config.ts` and `src/app/globals.css` for theme customization.
-
 ## Future Enhancements
 
 -   **Blog Integration**: Adding a section for technical writing and tutorials.
@@ -110,6 +73,3 @@ Follow these steps to set up the project locally:
 -   **Email**: [harshaljadhav814@gmail.com](mailto:harshaljadhav814@gmail.com)
 -   **LinkedIn**: [Harshal Jadhav](https://www.linkedin.com/in/harshjadhav07)
 
-## License
-
-This project is licensed under the MIT License.
