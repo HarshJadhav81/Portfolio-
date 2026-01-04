@@ -1,7 +1,7 @@
 # Portfolio
 
 **Harshal Jadhav**  
-Full-Stack Web Developer – Fresher
+Full-Stack Web Developer
 
 ---
 
